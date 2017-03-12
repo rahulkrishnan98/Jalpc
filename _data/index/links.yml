@@ -9,10 +9,10 @@
   first_name:
   desc: Follow Us
   website: http://foss.amrita.ac.in/
-  #email: 
+  email:
 
 - last_name: Amrita University
   first_name:
   desc: University College
-  website:
+  website: https://www.amrita.edu/
   email:
