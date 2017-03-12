@@ -1,15 +1,15 @@
 # links section data
-- last_name: Name 1
+- last_name: Rahul Krishnan
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: Student | Developer
+#  website: https://www.google.com
+  email: mrahul.krishnan@gmail.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: FOSS@AMRITA
+  first_name:
+  desc: Follow Us
+  website: http://foss.amrita.ac.in/
+  email: 
 
 - last_name: LN
   first_name: FN
