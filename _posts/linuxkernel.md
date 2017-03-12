@@ -1,3 +1,10 @@
+---
+layout: blog
+title: Linux
+permalink: /linux/
+---
+{% include category.html %}
+
 ### 1.1 Introduction
 
 This tutorial is the layman's guide to hacking the Linux Kernel. The Linux foundation in general and the Kernel documentation in particular have intimidating documentation which put most of the newbies off. Well this blog in some level is an attempt to level the playing ground and give a setup guide and a follow-up instruction set to get your first patch merged into the main tree and hence making you a part of the largest open source project in the world, so cheers! We start off by setting up the system with some pre-requisites, making and compiling the Linux Kernel. Once that is done we can straight away dive into the C code which makes up the kernel and fix some annoying little bugs! **_ NOTE: The entire process is carried out in a 64-bit native Ubuntu 16.04 LTS version. To set up a virtual machine setup refer [here](https://kernelnewbies.org/OutreachyfirstpatchAlt?action=show&redirect=OPWfirstpatchAlt)_**
