@@ -9,10 +9,10 @@
   first_name:
   desc: Follow Us
   website: http://foss.amrita.ac.in/
-  email: 
+  #email: 
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Amrita University
+  first_name:
+  desc: University College
+  website:
+  email:
