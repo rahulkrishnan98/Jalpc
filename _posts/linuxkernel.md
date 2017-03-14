@@ -3,7 +3,6 @@ layout: blog
 title: Linux
 permalink: /linux/
 ---
-{% include category.html %}
 
 ### 1.1 Introduction
 

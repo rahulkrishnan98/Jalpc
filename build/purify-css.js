@@ -12,6 +12,9 @@ var content = [
     '_site/linux/index.html',
     '_site/donate/index.html',
     '_site/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html'
+    
+
+
 ]
 var css = ['static/css/style.css']
 
